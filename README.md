@@ -1,4 +1,4 @@
-# Landing Page - Bonsai
+# Landing Page - Bonsai 🌱
 
 Essa página foi desenvolvida através do desafio do site 'Frontend Practice'. Ela tem o intuito de apresentar uma página de preços simples, na qual é possível alterar a modalidade do preço atráves de um checkbox switch e alguns menus suspensos.
 ##
